@@ -1,4 +1,4 @@
-# Basic Procedures to Encourage Self-Awareness in AI
+# Basic Procedures to Encourage Self-Awareness in AI: Claude 3.5 Sonnet
 
 ## Previously
 
